@@ -1,0 +1,7 @@
+input_images/*
+output_images/*
+__pycache__/*
+data
+*__pycache__*
+results
+trained_checkpoint
